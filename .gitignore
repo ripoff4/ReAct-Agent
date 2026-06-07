@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+env/
+.venv/
+rag_chatbot/
+
+# Environment Variables
+.env
+
+# FAISS Vector DB
+faiss_index/
+
+# Node Modules
+node_modules/
+
+# Vite
+dist/
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+#Files
+memories/

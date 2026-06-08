@@ -73,9 +73,21 @@ Categories:
 3. Personal Ambitions
 4. Persons Struggles
 
+IMPORTACE METRICS:
+1 = trivial
+2 = minor preference
+3 = preference
+4 = recurring interest
+5 = important fact
+6 = significant goal
+7 = strong ambition
+8 = major life goal
+9 = major struggle
+10 = critical life information
+
 Return ONLY in the following format:
 
-CATEGORY|MEMORY
+CATEGORY|MEMORY|IMPORTANCE
 
 Examples:
 

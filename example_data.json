@@ -1,0 +1,11 @@
+[
+    {
+        "memory" : "User name is Varshith",
+        "category" : "Personal Details",
+        "importance" : 5,
+        "embedding" : [0.01,0.025],
+        "access_count" : 0,
+        "created_at" : "2026-06-08T11:45:01.410699",
+        "last_accessed" : "2026-06-08T11:45:01.410699"
+    }
+]
